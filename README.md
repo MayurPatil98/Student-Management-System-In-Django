@@ -5,8 +5,10 @@ Student Management System is created in Django, In this system three types of lo
 # Hod panel- Home Page
 ![01-HOD_home](https://user-images.githubusercontent.com/92413748/160239452-8079b645-3022-4ae2-bf11-fadd1740ff2f.png)
 
+
 # Hod panel- Add Student Page
 ![2-HOD_add_student](https://user-images.githubusercontent.com/92413748/160239568-df6c24f5-1972-4fc1-836d-f2eb333a6d74.png)
+
 
 # Hod panel- View Student Page
 ![3-HOD_view_student](https://user-images.githubusercontent.com/92413748/160239618-06e2ecb0-26b8-436f-9ad2-7bbef8f3d52c.png)
